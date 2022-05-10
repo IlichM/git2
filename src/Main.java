@@ -4,7 +4,7 @@ public class Main {
 
         String phone = "89256663300";
         System.out.println("Звоните нам по телефону - " + phone);
-        
+
 
     }
 }
