@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Внесли изменения, чтоб слить две ветки");
 
         String phone = "333231";
+
         System.out.println("Звоните нам по телефону - " + phone);
 
     }
