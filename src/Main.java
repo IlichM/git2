@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Вывод из мастер ветки");
 
         System.out.println("Внесли изменения, чтоб слить две ветки");
-        
+
         String phone = "89256663300";
         System.out.println("Звоните нам по телефону - " + phone);
 
