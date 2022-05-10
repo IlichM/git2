@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Звоните нам по телефону - " + phone);
 
+        System.out.println("Out pull request");
+
     }
 }
