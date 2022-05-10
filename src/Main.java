@@ -4,7 +4,7 @@ public class Main {
 
         System.out.println("Внесли изменения, чтоб слить две ветки");
 
-        String phone = "89256663300";
+        String phone = "33-32-31";
         System.out.println("Звоните нам по телефону - " + phone);
 
     }
