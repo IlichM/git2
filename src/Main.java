@@ -8,5 +8,7 @@ public class Main {
         String phone2 = "5552255";
         System.out.println("Звоните нам по телефону - " + phone);
 
+        System.out.println("Out pull request");
+
     }
 }
